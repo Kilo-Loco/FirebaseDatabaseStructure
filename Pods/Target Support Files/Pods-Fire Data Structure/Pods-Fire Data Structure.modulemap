@@ -1,0 +1,6 @@
+framework module Pods_Fire_Data_Structure {
+  umbrella header "Pods-Fire Data Structure-umbrella.h"
+
+  export *
+  module * { export * }
+}
